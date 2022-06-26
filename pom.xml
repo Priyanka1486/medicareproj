@@ -11,7 +11,7 @@
 	<groupId>medicare</groupId>
 	<artifactId>medicare</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Medicare</name>
 	<description>Medicare</description>
 	<properties>
